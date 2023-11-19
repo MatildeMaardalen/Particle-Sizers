@@ -1,3 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This file goes through the videodrop files in a folder and saves the file
+% name, median diameter, concentration, and histogram values (bin width and
+% height) in a table. These values can then be used in prism or other
+% software to plot figures and do statistical analysis. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %% 1. Setup
 clear all;
 
